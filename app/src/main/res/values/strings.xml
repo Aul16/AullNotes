@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aull Notes V.2</string>
+    <string name="action_settings">Settings</string>
+    <string name="et_notes">Notes</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_delete_all_notes">Delete all notes</string>
+    <string name="tv_reset">Reset</string>
+</resources>
